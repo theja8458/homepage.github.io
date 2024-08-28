@@ -91,7 +91,7 @@ home{
     }
      .container1{
         height: 1980px;
-        width: 900px;
+        width: 1000px;
         flex-direction: column;
         gap: 80px;
         justify-content: space-evenly;
